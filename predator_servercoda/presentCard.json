@@ -1,0 +1,43 @@
+[  
+    {
+	    "type": "AdaptiveCard",
+	    "minHeight": "100px",
+	    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+	    "version": "1.2",
+	    "body": [
+	        {
+	            "type": "TextBlock",
+	            "text": "ITHACA RP",
+	            "fontType": "Default",
+	            "horizontalAlignment": "Center",
+	            "weight": "Bolder",
+	            "color": "Accent",
+	            "size": "ExtraLarge"
+	        },
+	        {
+	            "type": "TextBlock",
+	            "text": "[1] bitpredator (bit predator#7675) | 1000 Punti per la coda",
+	            "color": "Light",
+	            "fontType": "Default",
+	            "weight": "Bolder"
+	        },
+	        {
+	            "type": "TextBlock",
+	            "text": "Tempo di Attesa: 10",
+	            "color": "Accent",
+	            "spacing": "Small",
+	            "horizontalAlignment": "Center",
+	            "weight": "Bolder"
+	        },
+	        {
+	            "type": "TextBlock",
+	            "text": "Prenota ora il tuo posto in coda!",
+	            "horizontalAlignment": "Center",
+	            "weight": "Bolder",
+	            "color": "Accent",
+	            "size": "Small",
+	            "spacing": "Small"
+	        }
+	    ]
+	}
+]
