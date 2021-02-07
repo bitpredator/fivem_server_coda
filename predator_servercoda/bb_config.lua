@@ -1,7 +1,7 @@
 Config = {}
 
-local Prefix = "[Predator Server Coda] "
-Config.DiscordServerID = 717696460426051687 -- Discord ID
+local Prefix = ""   -- Prefisso Server 
+Config.DiscordServerID = -- Discord ID
 Config.DiscordBotToken = "" -- Discord Bot Token. You can create one on https://discord.com/developers/applications
 Config.maxServerSlots = 32
 
